@@ -1,0 +1,2 @@
+faststream[cli,kafka]==0.5.42
+pydantic

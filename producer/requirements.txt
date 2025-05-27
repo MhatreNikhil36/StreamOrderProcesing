@@ -1,0 +1,5 @@
+
+fastapi
+uvicorn[standard]
+faststream[kafka,cli]
+pydantic
